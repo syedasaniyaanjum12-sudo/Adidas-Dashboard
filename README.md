@@ -137,13 +137,17 @@ Streamlit will open the dashboard in your web browser.
 
 ## 📸 Dashboard Preview
 
-Add a screenshot of your running dashboard here.
 
-For example, save a screenshot as `dashboard.png` inside your project folder and add:
+<img width="1327" height="572" alt="Monthly Sales and Retailer wise Sales" src="https://github.com/user-attachments/assets/fab1f442-e455-42b0-a448-5cbc44644012" />
 
-```markdown
-![Adidas Sales Dashboard](dashboard.png)
-```
+<img width="1286" height="448" alt="Total Sales and Units sold by State" src="https://github.com/user-attachments/assets/3f3bc2c0-150c-45fa-ad84-354fc351bb2b" />
+
+<img width="1242" height="493" alt="Tree map for total Sales for Region and city" src="https://github.com/user-attachments/assets/f068e111-acb0-4f77-9ba9-3514743134f7" />
+
+
+
+
+
 
 ## 📚 Skills Demonstrated
 
